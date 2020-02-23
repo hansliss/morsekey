@@ -7,6 +7,6 @@ The idea is to keep track of a moving average of dot times, both for tones and s
 
 While this works surprisingly well, the current implementation quite often fails spectacularly.
 
-if you dare to dive into this code, feel free to fix my bugs!
+If you dare to dive into this code, feel free to fix my bugs!
 
 I've tried to use fairly sensible variable and function names but there's no coherent, carefully crafted code structure here, so enter at your own peril.
