@@ -1,5 +1,6 @@
 # morsekey
 [WiP] Morse code parser for Arduino, to be expanded into a telegraphy HID device
+![Connecting People](ConnectingPeople.jpg)
 
 Connect a li'l speaker to pin 3 and a telegraph key to pin 2, and prepare to descend into utter despair, because while this thing is fully capable of flawlessly parsing Morse code when it feels like it, it's also perfectly capable of locking itself into a confused mode where everything is a dash.
 
